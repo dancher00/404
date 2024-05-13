@@ -14,8 +14,8 @@ Actuator Network
 
 
 Links:
-[Learning to Walk via Deep Reinforcement Learning](https://arxiv.org/abs/1901.08652)
+[Paperwork: Learning to Walk via Deep Reinforcement Learning](https://arxiv.org/abs/1901.08652)
 
 
-[Repo:anymal_science_robotics_supplementary](https://github.com/junja94/anymal_science_robotics_supplementary)
+[Repo:  ANYmal Science Robotics Supplementary](https://github.com/junja94/anymal_science_robotics_supplementary)
 

@@ -1,5 +1,5 @@
-# sber
-test task actuator network
+#Test task from Sber Robotics Lab
+Actuator Network
 
 
 - `model/`: Folder with trained model
@@ -10,3 +10,10 @@ test task actuator network
   - `metrics.py `: Code for calculating metrics
   - `training.py `: Code for training the model
 - `README.md `: This file
+
+
+
+Links:
+[Learning to Walk via Deep Reinforcement Learning](https://arxiv.org/abs/1901.08652)
+[Repo:anymal_science_robotics_supplementary](https://github.com/junja94/anymal_science_robotics_supplementary)
+

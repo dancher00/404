@@ -2,7 +2,7 @@
 
 ## Actuator Network
 
-This project was created as part of an internship at the Sberbank Robotics Center. The main goal of the project was to develop an algorithm for learning and calculating metrics using a network of actuators from a scientific article. 
+This project was created as part of an internship at the Sberbank Robotics Center. The main goal of the project was to develop an algorithm for learning and calculating metrics using a network of actuators from a [scientific article](https://www.google.com/search?channel=fs&client=ubuntu&q=quadrapedal). 
 
 ### Overview
 

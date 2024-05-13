@@ -1,6 +1,6 @@
 # Test task from Sber Robotics Lab
 
-Actuator Network
+## Actuator Network
 
 
 - `model/`: Folder with trained model
@@ -13,6 +13,9 @@ Actuator Network
 - `README.md `: This file
 
 
+![Metrics](Metrics.png)
+
+![Comparison](Comparison.png)
 
 Links:
 

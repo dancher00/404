@@ -1,4 +1,4 @@
-# Test task from Sber Robotics Lab
+# Test task from 404
 
 ## Actuator Network
 
